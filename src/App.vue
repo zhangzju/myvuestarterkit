@@ -30,4 +30,10 @@ export default {
 body {
   font-family: Helvetica, sans-serif;
 }
+
+#app {
+  display: block;
+  margin: 20vh auto;
+  text-align: center;
+}
 </style>
